@@ -22,7 +22,7 @@
 $UEMHost = "uemga01.gdbeslab.com" #FQDN of your UEM server
 $UEMPort = "18084" #BWS port number, default is 18084
 $UEMUser = "admin"
-$UEMPassword = "Letmein321"
+$UEMPassword = "YeahRightHAHAHA"
 
 # Disable SSL verification ($true = disabled, $false = enabled) Only disable for testing purposes! Install a trusted certificate for BWS in UEM and ensure SSL verification is done properly!
 [System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}
